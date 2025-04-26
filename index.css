@@ -1,4 +1,6 @@
 /* Overall Styling */
 body{
     margin: 0;
+    font-family: "Poppins", sans-serif;
+    display: flex;
 }
