@@ -2,5 +2,5 @@
 body{
     margin: 0;
     font-family: "Poppins", sans-serif;
-    display: flex;
+    background: linear-gradient(to bottom, #6a11cb, #2575fc);
 }
