@@ -1,0 +1,70 @@
+/* Overall Styling */
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(to bottom, #6a11cb, #2575fc);
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Main Container */
+.container {
+  text-align: center;
+  padding: 2rem;
+  background: rgba(0, 0, 0, 0.7);
+  border-radius: 15px;
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.5);
+  width: 90%;
+  max-width: 600px;
+}
+
+/* Header */
+header h1 {
+  font-size: 2.8rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+header p {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+  opacity: 0.9;
+}
+
+/* Inspirational Quote */
+main #quote {
+  font-size: 1.6rem;
+  font-style: italic;
+  margin: 1.5rem 0;
+  padding: 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Inspire Me Button */
+main button {
+  font-size: 1.2rem;
+  padding: 0.8rem 1.5rem;
+  color: #ffffff;
+  background-color: #2575fc;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+main button:hover {
+  background-color: #1d60d3;
+  transform: scale(1.1);
+}
+
+/* Footer */
+footer p {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
