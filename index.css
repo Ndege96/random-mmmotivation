@@ -12,4 +12,5 @@ body{
 /* Main Container */
 .containe{
     text-align: center;
+    padding: 2rem;
 }
