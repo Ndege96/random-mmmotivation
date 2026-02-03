@@ -20,4 +20,4 @@ const generateQuote = () => {
 };
 
 // Event Listener for Button Click
-generateButton.addEventListener('click', generateQuote);
+generateButton.addEventListener('click', 
