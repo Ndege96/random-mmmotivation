@@ -13,7 +13,7 @@ body {
 /* Main Container */
 .container {
   text-align: center;
-  padding: 2rem;
+  padding: 4rem;
   background: rgba(0, 0, 0, 0.7);
   border-radius: 15px;
   box-shadow: 0 4px 25px rgba(0, 0, 0, 0.5);
