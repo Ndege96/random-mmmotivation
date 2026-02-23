@@ -1,5 +1,5 @@
 // Inspirational Quotes Array
-const quotes= [
+const quotes = [
     "Believe you can and you're halfway there.",
     "Your limitation—it’s only your imagination.",
     "Push yourself, because no one else is going to do it for you.",
