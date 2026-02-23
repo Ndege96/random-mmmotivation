@@ -14,7 +14,7 @@ const generateButton = document.getElementById('generateQuote');
 
 // Function to Generate a Random Quote
 const generateQuote = () => {
-    const randomIndex = Math.floor(Math.random() * quotes.length);
+    const randomIndex = Mat.floor(Math.random() * quotes.length);
     quoteText.textContent = `"${quotes[randomIndex]}"`;
     quoteText.style.animation = 'fadeIn 0.5s ease-in-out';
 };
